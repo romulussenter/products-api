@@ -3,7 +3,7 @@ const serverApp = express();
 
 const PORT = process.env.PORT || 5000; //necessary for HEroku deployment
 serverApp.get('/', (req,res) =>{
-    res.send('Hello I work YAYA');
+    res.send('stufff');
 })
 
 serverApp.listen(PORT, () =>{
