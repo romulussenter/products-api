@@ -1,6 +1,6 @@
 const products = [
     {
-        _id: 'fasdjfajsdfh',
+        _id: '1',
         name: 'Javelin',
         price: 500,
         imgSrc: 'http://via.palceholder.com/250x250',
